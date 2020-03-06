@@ -1,0 +1,121 @@
+/* PAGE */
+body {
+	background-color: rgb(166, 225, 248);
+}
+
+/* FONTS */
+/* page title */
+h1 {
+	font-family: "Lemon", cursive;
+	text-align: center;
+	font-size: 60pt;
+	color: rgb(206, 5, 5);
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: white;
+}
+
+/* flashcards */
+h2 {
+	font-family: "Mali";
+	color: rgb(27, 27, 104);
+	font-size: 60pt;
+}
+
+/* correct equation */
+h3 {
+	font-family: "Mali";
+	color: rgb(89, 167, 53);
+	font-size: 60pt;
+	text-align: center;
+}
+
+/* end message */
+h4 {
+	font-family: "Mali";
+	font-weight: bold;
+	color: rgb(27, 27, 104);
+	font-size: 48pt;
+	text-align: center;
+}
+
+/* default */
+p {
+	font-family: "Mali";
+	font-size: 18pt;
+	color: rgb(27, 27, 104);
+	text-align: center;
+}
+
+/* emphasis */
+.pop {
+	font-weight: bolder;
+}
+
+/* ELEMENTS */
+/* typical button */
+.btn {
+	background-color: rgb(109, 204, 65);
+	color: white;
+	font-family: "Lemon", cursive;
+	margin-bottom: 60px;
+}
+
+/* special button */
+#new {
+	background-color: white;
+	color: rgb(27, 27, 104);
+}
+
+/* small user entry box */
+.small-number-box {
+	width: 60px;
+	font-family: "Mali";
+	color: rgb(27, 27, 104);
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* user entry box */
+.number-box {
+	width: 160px;
+	font-family: "Mali";
+	color: rgb(27, 27, 104);
+	font-size: 60pt;
+	font-weight: bold;
+	text-align: left;
+	margin: 20px;
+	padding: 0px 10px;
+}
+
+/* answer feedback */
+.overlay {
+	position: absolute;
+	top: 80px;
+	right: 20px;
+}
+
+/* corrected equation */
+.overlay2 {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	align-content: center;
+	justify-content: center;
+}
+
+/* flashcard */
+.card {
+	border: solid 2px rgb(27, 27, 104);
+}
+
+/* score stars */
+.star {
+	display: inline-block;
+	-webkit-filter: drop-shadow(0px 0px 4px white);
+	filter: drop-shadow(0px 0px 4px white;
+	margin-bottom: 40px;
+}
