@@ -9,7 +9,7 @@ The goal of this application is to help my son practice his multiplication in a 
 ### Goals
 
 1. Provide choice of practicing a single number multiplier or all numbers up to a certain maximum.
-2. Numbers should be provided randomly and single number multipliers should appear in both posisionts of the equation.
+2. Numbers should be provided randomly and single number multipliers should appear in both positions of the equation.
 3. Feedback should be given for correct and incorrect answers and correct equations should be shown if a question is answered incorrectly.
 4. Encouragement should be provided to keep practicing.
 5. Interface should be simple, clean, and easy to use.
