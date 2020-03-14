@@ -1,4 +1,4 @@
-# Multiiplication Flashcards
+# Multiplication Flashcards
 
 When I told my kids that I was going back to school to learn web and software development, my son got very excited that I would soon be able to build video games for him. So I created this application for him to practice his multiplication facts. Yes, his response was somewhat underwhelming.
 
