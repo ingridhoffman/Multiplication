@@ -1,10 +1,10 @@
 # Multiplication Flashcards
 
-When I told my kids that I was going back to school to learn web and software development, my son got very excited that I would soon be able to build video games for him. So I created this application for him to practice his multiplication facts. Yes, his response was somewhat underwhelming.
+When I told my kids that I was going back to school to learn web and software development, my son got very excited that I would soon be able to build video games for him. So, I created this application for him to practice his multiplication facts.... Yes, his response was somewhat underwhelming.
 
-## Development Notes
+### About
 
-The goal of this application is to help my son practice his multiplication in a similar format to how he is tested on it in school. Tests at school are timed and the goal is to complete as many questions accurately as possible before time is up. Typically tests are on single number mulitplier with occasional tests on numbers practiced to date.
+The goal of this application is to help my son (and now my nephews and nieces as well) practice multiplication in a similar format to how it is tested on in school. Tests at school are timed and the goal is to complete as many questions accurately as possible before time is up. Typically tests are on single number mulitplier with occasional tests on numbers practiced to date.
 
 ### Goals
 
@@ -14,7 +14,17 @@ The goal of this application is to help my son practice his multiplication in a 
 4. Encouragement should be provided to keep practicing.
 5. Interface should be simple, clean, and easy to use.
 
-### Script Logic
+# Application
+
+### Usage
+
+This is a web based application that has been tested to run in Chrome. It can be run on mobile devices but is not optimized for the mobile environment because it requires keyboard input. Future development would include mobile features such as button inputs and interactions.
+
+### Demonstration
+
+https://ingridhoffman.github.io/Multiplication-Flashcards/
+
+# Build Logic
 
 ```
 -> Define global variables to be held and used for multiple functions
@@ -45,5 +55,5 @@ IF EVENT: Click new quiz button
 -> Reload page to start over
 ```
 
-### Application URL
-https://ingridhoffman.github.io/Multiplication-Flashcards/
+# License
+MIT © Ingrid Hoffman
