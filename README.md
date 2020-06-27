@@ -18,6 +18,10 @@ The goal of this application is to help my son (and now my nephews and nieces as
 
 # Application
 
+This application is built from a previous homework assignment that can be found here:
+
+https://github.com/ingridhoffman/JavaScriptQuiz
+
 ### Usage
 
 This is a web based application that has been tested to run in Chrome. It can be run on mobile devices but is not optimized for the mobile environment because it requires keyboard input. Future development would include mobile features such as button inputs and interactions.
