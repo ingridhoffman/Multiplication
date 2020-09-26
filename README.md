@@ -28,7 +28,7 @@ This is a web based application that has been tested to run in Chrome. It can be
 
 ### Demonstration
 
-https://ingridhoffman.github.io/Multiplication-Flashcards/
+https://ingridhoffman.github.io/Multiplication/
 
 # Build Logic
 
